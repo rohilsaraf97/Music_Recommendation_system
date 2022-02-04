@@ -3,7 +3,7 @@ Mood Based Music Recommendation system
 
 Obtain dataset from kaggle
 
-(Dataset)[https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset]
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 Use python 3.6
 
